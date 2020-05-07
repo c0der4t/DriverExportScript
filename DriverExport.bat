@@ -1,7 +1,7 @@
 @ECHO OFF
 echo This Script Will Attempt to Export All Third-Party Drivers From This Machine.
 echo =============================================================================================
-echo PLEASE ENSURE YOU ARE RUNNING THIS SCRIPTS AS ADMINISTRATOR
+echo PLEASE ENSURE YOU ARE RUNNING THIS SCRIPT AS ADMINISTRATOR
 echo This may take a while depending on the speed and amount of drivers on the machine.
 echo Note:
 echo A Instructional Textfile (Instructions.txt) as well as a Driver Information Textfile (DriverInfo.txt)
